@@ -5,9 +5,9 @@ public class PrintProgramme10 {
         int a = 25;
         int b = 5;
         System.out.print(a);
-        System.out.print('x');
+        System.out.print(" x ");
         System.out.print(b);
-        System.out.print('=');
+        System.out.print(" = ");
         System.out.print(a * b);
 
     }
